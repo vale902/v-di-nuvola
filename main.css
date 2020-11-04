@@ -211,28 +211,67 @@ display: inline-block;}
 }
 	}
 
-@media only screen and (min-width:767px) {
-
-	 #gallery .item {
- 	width: 33.3333%;}
- 
-	 #menu li a:hover {
-		 background-color:#F0EC6C;
-		 color:#234183;
-		 padding: 5px 10px;
-		 border-radius: 5px;
-		 font-weight: bold;
-		 text-decoration: none;
-		 text-align:center;
-		 transition: .4s;
-	 
-	  }
 
 
+	@media only screen and (min-width: 300px){
+
+		/****gallery****/
+	
+		
+	
+		 #gallery .item {
+		 width: 33.3333%;
+	
 	}
-
-
-
+		 #gallery .item:hover{
+			 opacity: .6;
+	
+	
+		 }
+	
+			 #gallery .item{
+		 transition: .3s;
+		 padding-top: 60px;
+			 
+		 }
+	
+	 #menu li a:hover {
+		background-color:#F0EC6C;
+		color:#234183;
+		padding: 5px 10px;
+		border-radius: 5px;
+		font-weight: bold;
+		text-decoration: none;
+		text-align:center;
+		transition: .4s;
+	
+	
+	}
+		/****about****/
+	
+	.profile-pic{margin:auto;
+	display: inline-block;}
+	
+		#about .profile-pc{
+			width: 50%;
+			float:left;
+			padding: 15px;
+		}
+			#about .description{
+			width: 50%;
+			float:right;
+			font-size: 15px;
+			padding-top: 150px;
+			line-height: 120%
+	
+		}
+	
+		#about img{
+		border-radius: 100%;
+		padding-top:30px;
+		width:400px;
+	}
+		}
 
 
 /*******contatti**********/
