@@ -277,6 +277,9 @@ padding:0px;
 .item img {
 width: auto;
 }
-
+..picture {
+	width: auto;
+	padding: auto;
+}
 
 }
