@@ -224,20 +224,11 @@ display: inline-block;}
 		
 	
 		 #gallery .item {
-		 width: 100%%;
+		 width:50%;
 	
 	}
-		 #gallery .item:hover{
-			 opacity: .6;
 	
 	
-		 }
-	
-			 #gallery .item{
-		 transition: .3s;
-		 padding-top: 60px;
-			 
-		 }
 	
 	 #menu li a:hover {
 		background-color:#F0EC6C;
