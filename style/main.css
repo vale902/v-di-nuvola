@@ -108,7 +108,7 @@ padding: 16px;
 }
 
 #gallery img{
-	width: 900%;
+	width: 50%;
 }
 #gallery{
 	padding-top:15px;
@@ -123,8 +123,7 @@ padding: 16px;
  }
 
 .item img {
-    width: 50px;
-    height: 200px;
+	height: 200px;
 
 }
 /******footer******/
@@ -162,7 +161,6 @@ footer .main a{
 	/****gallery****/
 
 	
-
 
 	 #gallery .item {
  	width: ;
