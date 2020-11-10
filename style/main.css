@@ -163,7 +163,7 @@ footer .main a{
 	
 
 	 #gallery .item {
- 	width: auto%;
+ 	width: 33.33%;
 
 }
  	#gallery .item:hover{
@@ -219,7 +219,7 @@ display: inline-block;}
 @media only screen and (max-width:767px) {
 
 	 #gallery .item {
- 	width: auto;
+ 	width: 50%;
 
 }
 
