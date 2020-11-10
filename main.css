@@ -1,7 +1,7 @@
 
 /*****general*****/
 
-#main-content{ 
+#main-content .clearfix{ 
 	min-height: calc(100vh - 205px -113,84px);
 }
 
