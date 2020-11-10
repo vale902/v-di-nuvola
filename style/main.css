@@ -2,11 +2,6 @@
 /*****general*****/
 
 
-#main-content { 
-	min-height: calc(100 vh - 205px -113,84px);
-}
-
-
 *{ box-sizing: border-box;
 }
 
@@ -14,7 +9,7 @@
 
 
 .container {
-max-width: 100px;
+max-width: 900px;
 margin: 0 auto;
 padding:0 15px;
 
@@ -108,7 +103,7 @@ padding: 16px;
 }
 
 #gallery img{
-	width: 50%;
+	width: 100%;
 }
 #gallery{
 	padding-top:15px;
@@ -163,7 +158,7 @@ footer .main a{
 	
 
 	 #gallery .item {
- 	width: 33.33%;
+ 	width: 33.3333%;
 
 }
  	#gallery .item:hover{
@@ -216,10 +211,10 @@ display: inline-block;}
 }
 	}
 
-@media only screen and (max-width:767px) {
+@media only screen and (min-width:200px) {
 
 	 #gallery .item {
- 	width: 50%;
+ 	width: 33.3333%;
 
 }
 
