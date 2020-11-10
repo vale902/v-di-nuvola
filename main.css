@@ -218,61 +218,15 @@ display: inline-block;}
 
 
 	@media only screen and (max-width: 767px){
+/****gallery****/
+img {width: 50%;}
 
-		/****gallery****/
+
+
+	}
+
 		
-	
-		 img .item {
-			 width: 100%;
-			 height: 50%;
-	
-	
-	}
-#container{
-	display:inline-block;
-}
-
-	#gallery { width:100%;}
-	
-body {background: #234183;}
-	 #menu li a:hover {
-		background-color:#F0EC6C;
-		color:#234183;
-		padding: 5px 10px;
-		border-radius: 5px;
-		font-weight: bold;
-		text-decoration: none;
-		text-align:center;
-		transition: .4s;
-	
-	
-	}
-		/****about****/
-	
-	.profile-pic{margin:auto;
-	display: inline-block;}
-	
-		#about .profile-pc{
-			width: 50%;
-			float:left;
-			padding: 15px;
-		}
-			#about .description{
-			width: 50%;
-			float:right;
-			font-size: 15px;
-			padding-top: 150px;
-			line-height: 120%
-	
-		}
-	
-		#about img{
-		border-radius: 100%;
-		padding-top:30px;
-		width:400px;
-	}
-		}
-	
+		
 
 
 /*******contatti**********/
