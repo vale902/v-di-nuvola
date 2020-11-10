@@ -222,9 +222,9 @@ display: inline-block;}
 img {width: 100px;
 height: 100px;
 }
-li a { width: 100px;}
-.item { width: 100px;}
-
+#gallery .item {
+	padding: auto;
+}
 
 	}
 
