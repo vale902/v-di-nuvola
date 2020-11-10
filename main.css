@@ -222,7 +222,7 @@ display: inline-block;}
 img {width: 100px;
 height: 50px;
 }
-
+li a { width: 100px;}
 .item { width: 50px;}
 
 
