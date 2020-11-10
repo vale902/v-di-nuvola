@@ -217,14 +217,14 @@ display: inline-block;}
 
 
 
-	@media only screen and (max-width: 375px){
+	@media only screen and (max-width: 767px){
 
 		/****gallery****/
-	
 		
 	
 		 #gallery .item {
-		 width:50px;
+			 width: 50px;
+	
 	
 	}
 	
@@ -278,7 +278,7 @@ body {background: #234183;}
 
 #main-contact .contact a {
 	margin-top: 3px 0 0 5px;
-
+	display: inline-block;
 }
 
 
