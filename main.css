@@ -1,7 +1,7 @@
 
 /*****general*****/
 
-main { 
+#main-content{ 
 	min-height: calc(100vh - 205px -113,84px);
 }
 
