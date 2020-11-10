@@ -2,7 +2,7 @@
 /*****general*****/
 
 #main-content .clearfix{ 
-	min-height: calc(100vh - 205px -113,84px);
+	min-height: calc(100 vh - 205px -113,84px);
 }
 
 
