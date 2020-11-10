@@ -222,7 +222,7 @@ display: inline-block;}
 img {width: 100px;
 height: 100px;
 }
-#gallery .item {
+ .item {
 	padding: 5px;
 }
 
