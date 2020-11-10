@@ -68,11 +68,6 @@ nav {
 }
 
 
-#gallery img{
-    width: 100%;
-}
-
-
 
 
 header { 
@@ -215,8 +210,8 @@ display: inline-block;}
 
 @media only screen and (min-width:200px) {
 
-	 #gallery .item {
- 	width: 33.3333%;
+	 #gallery img {
+ 	width:100%;
 
 }
 
