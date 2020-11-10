@@ -228,8 +228,8 @@ display: inline-block;}
 	
 	
 	}
-display:{
-	inline-block;
+#container{
+	display:inline-block;
 }
 
 	#gallery { width:100%;}
