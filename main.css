@@ -162,7 +162,7 @@ footer .main a{
 	
 
 	 #gallery .item {
- 	width: auti;
+ 	width: auto;
 
 }
  	#gallery .item:hover{
@@ -217,13 +217,14 @@ display: inline-block;}
 
 
 
-	@media only screen and (max-width: 200px){
+	@media only screen and (max-width: 767px){
 /****gallery****/
 img {width: auto;
 
 }
  .item {
 	padding: 5px;
+	width: auto;
 }
 
 	}
