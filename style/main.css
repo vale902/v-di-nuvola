@@ -113,12 +113,7 @@ padding: 16px;
 
  }
 
-.item img {
-	height: 50px;
 
-}
-
-#gallery .item:lastchild { clear:left;}
 /******footer******/
 
 .social img{
