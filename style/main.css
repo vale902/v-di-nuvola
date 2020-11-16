@@ -208,32 +208,6 @@ display: inline-block;}
 }
 	}
 
-@media only screen and (min-width:200px) {
-
-	 #gallery img {
- 	width:100%;
-
-}
-
-
-
-#gallery img{ width:50%;}
- 	
- 
- 	#menu li a:hover {
-	background-color:#F0EC6C;
-	color:#234183;
-	padding: 5px 10px;
-	border-radius: 5px;
-	font-weight: bold;
-	text-decoration: none;
-	text-align:center;
-	transition: .4s;
-
- }
-	
-}
-
 /*******contatti**********/
 
 #contatti .material-icons li{
