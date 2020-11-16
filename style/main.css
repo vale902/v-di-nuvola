@@ -86,18 +86,6 @@ padding: 16px;
 }
 
 /****gallery****/
-.didascalia p{
-	background-color:#D1E4EF;
-	margin-top: 0px;
-	color:#234183; 
-   
-
-}
-
-#gallery .picture{
-	line-height: 0px;
-	width: 100%;
-}
 
 #gallery img{
 	width: 100%;
