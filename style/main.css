@@ -99,7 +99,7 @@ padding: 16px;
 }
 
 #gallery img{
-	width: 50%;
+	width: 100%;
 }
 #gallery{
 	padding-top:15px;
@@ -114,7 +114,7 @@ padding: 16px;
  }
 
 .item img {
-	height: 100px;
+	height: 50px;
 
 }
 
