@@ -93,7 +93,6 @@ padding: 16px;
    
 
 }
-}
 
 #gallery .picture{
 	line-height: 0px;
@@ -118,6 +117,8 @@ padding: 16px;
 	height: 100px;
 
 }
+
+#gallery .item:lastchild { clear:left;}
 /******footer******/
 
 .social img{
