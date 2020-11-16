@@ -106,6 +106,10 @@ padding: 16px;
 	padding-bottom: 15px;
 
 }
+
+.item {
+width: 50%;
+}
  #gallery .item {
 	 width: 50%;
 	 float: left;
